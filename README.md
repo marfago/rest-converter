@@ -1,4 +1,4 @@
-RESCT-CONVERTER!
+REST-CONVERTER
 ===================
 
 Online parser e converter da excel a json/csv. L'applicazione è costruita usando lo stack mean.js [MEANS.JS](http://meanjs.org/) e espone una parte web su [http://localhost:3000](http://localhost:3000) e alcusi servizi REST.
